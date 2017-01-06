@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/empty_donut"
+        android:title="@string/donut"
+        android:icon="@drawable/donut_empty"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/selected_donut"
+        android:title="@string/donut"
+        android:icon="@drawable/donut_filled"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/creditCard"
+        android:title="@string/credit_card_payments"
+        app:showAsAction="ifRoom"/>
+</menu>

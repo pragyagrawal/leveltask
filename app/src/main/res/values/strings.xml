@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LevelMoneyTask</string>
+    <string name="include_future_predictions">Include Future Predictions</string>
+    <string name="income">Income</string>
+    <string name="spending">Spending</string>
+    <string name="donut">Donut</string>
+    <string name="credit_card_payments">Credit Card Payments</string>
+</resources>
