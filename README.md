@@ -6,14 +6,14 @@
 
 The following **required** functionality is completed:
 
-* [ ] Loads a user's transactions from the GetAllTransactions endpoint
-* [ ] Create an Activity that presents a list of transactions. Each list item should contain a Merchant and an Amount.
+* [x] Loads a user's transactions from the GetAllTransactions endpoint
+* [x] Create an Activity that presents a list of transactions. Each list item should contain a Merchant and an Amount.
 
 The following **optional** functionality is completed:
 
-* [ ] Added a donut in options menu which add/removes "Krispy Kreme Donuts" or "DUNKIN #336784" transactions from the list.
-* [ ] Added options to get future transactions and combined them with existing transactions. 
-* [ ] Added option to exclude credit card payments/expenses.And use Overflow menu option to see the credit card transaction in a different activities. 
+* [x] Added a donut in options menu which add/removes "Krispy Kreme Donuts" or "DUNKIN #336784" transactions from the list.
+* [x] Added options to get future transactions and combined them with existing transactions. 
+* [x] Added option to exclude credit card payments/expenses.And use Overflow menu option to see the credit card transaction in a different activities. 
 
  ## Video Walkthrough
 
