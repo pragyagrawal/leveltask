@@ -12,4 +12,5 @@
     <dimen name="aggregate_amount_margin">8dp</dimen>
     <dimen name="future_switch_margin">8dp</dimen>
     <dimen name="label_text_size">16sp</dimen>
+    <dimen name="card_corner_radius">4dp</dimen>
 </resources>
